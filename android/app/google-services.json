@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "575917575429",
+    "firebase_url": "https://fir-messagingdemo-10125.firebaseio.com",
+    "project_id": "fir-messagingdemo-10125",
+    "storage_bucket": "fir-messagingdemo-10125.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575917575429:android:16d47ef161035ed3f73b6c",
+        "android_client_info": {
+          "package_name": "com.minutestoseconds.mobile.app.melba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "575917575429-gghm83miuiatgjp4t6u0t5drl1utra5u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdp52hrS0w-rOdIklUiswLOqVQ2mBaSCQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "575917575429-gghm83miuiatgjp4t6u0t5drl1utra5u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
